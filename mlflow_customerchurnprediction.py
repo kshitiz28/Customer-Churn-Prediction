@@ -12,7 +12,7 @@ import datetime
 
 timestamp = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 
-
+# mlflow.set_tracking_uri("http://0.0.0.0:5000")
 mlflow.set_experiment("CustomerChurn")
 
 df = pd.read_csv("./Data/telecom_churn.csv")

@@ -1,0 +1,9 @@
+digest: 0fbf14bf
+name: dataset
+profile: '{"features_shape": [667, 10], "features_size": 6670, "features_nbytes":
+  53360}'
+schema: '{"mlflow_tensorspec": {"features": "[{\"type\": \"tensor\", \"tensor-spec\":
+  {\"dtype\": \"float64\", \"shape\": [-1, 10]}}]", "targets": null}}'
+source: '{"tags": {"mlflow.user": "Kshitiz", "mlflow.source.name": "d:/GritFeat/ML_Ops/customerchurnprediction.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code

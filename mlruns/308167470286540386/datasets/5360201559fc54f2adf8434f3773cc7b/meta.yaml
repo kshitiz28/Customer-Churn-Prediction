@@ -1,0 +1,10 @@
+digest: 9ac40e34
+name: dataset
+profile: '{"features_shape": [4568, 10], "features_size": 45680, "features_nbytes":
+  365440, "targets_shape": [4568], "targets_size": 4568, "targets_nbytes": 36544}'
+schema: '{"mlflow_tensorspec": {"features": "[{\"type\": \"tensor\", \"tensor-spec\":
+  {\"dtype\": \"float64\", \"shape\": [-1, 10]}}]", "targets": "[{\"type\": \"tensor\",
+  \"tensor-spec\": {\"dtype\": \"int64\", \"shape\": [-1]}}]"}}'
+source: '{"tags": {"mlflow.user": "Kshitiz", "mlflow.source.name": "d:/GritFeat/ML_Ops/mlflow_customerchurnprediction.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code

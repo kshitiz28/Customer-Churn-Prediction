@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/GritFeat/ML_Ops/mlruns/308167470286540386/075455e3965c433b874cc55e78f318fa/artifacts
+end_time: 1689306830433
+entry_point_name: ''
+experiment_id: '308167470286540386'
+lifecycle_stage: active
+run_id: 075455e3965c433b874cc55e78f318fa
+run_name: Regression in Unbalanced data 2023-07-14 09:38:50
+run_uuid: 075455e3965c433b874cc55e78f318fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689306830365
+status: 4
+tags: []
+user_id: Kshitiz
